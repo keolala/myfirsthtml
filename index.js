@@ -3,13 +3,7 @@ window.addEventListener("DOMContentLoaded", function () {
   alert("Welcome to my first web page!");
 });
 
-// Add a click interaction to the button
+// Change button text on click
 document.getElementById("surprise").addEventListener("click", function () {
-  this.textContent = "tell tom holland";
+  this.textContent = "Tell Tom Holland";
 });
-// When the button clicked appears alert
-window.addEventListener("DOMContentLoaded", function () {
-  alert("tell tom holland");
-});
-
-
