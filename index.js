@@ -5,7 +5,8 @@ window.addEventListener("DOMContentLoaded", function () {
 
 // Add a click interaction to the button
 document.getElementById("surprise").addEventListener("click", function () {
-  this.textContent = "";
+  this.textContent = "tell tom holland";
 });
+// Change the You clicked me! to tell tom holland
 
 
