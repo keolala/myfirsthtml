@@ -7,6 +7,6 @@ window.addEventListener("DOMContentLoaded", function () {
 document.getElementById("surprise").addEventListener("click", function () {
   this.textContent = "tell tom holland";
 });
-// Change the You clicked me! to tell tom holland
+
 
 
